@@ -1,0 +1,2 @@
+colour = "Blue"
+print("My favorite colour is:",colour)
