@@ -1,0 +1,4 @@
+name ="Pranavi"
+age = 20
+city = "Nellor"
+print("My name is", name, "I am", age, "years old and I live in", city)
