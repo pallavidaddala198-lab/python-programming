@@ -1,0 +1,8 @@
+maths = 95
+english = 98
+science = 92
+total = maths + english + science
+print("Maths:",maths)
+print("English:",english)
+print("Science:",science)
+print("Total:",total)
